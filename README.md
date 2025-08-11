@@ -40,3 +40,9 @@ An **autonomous vehicle** equipped with ultrasonic sensors and motor control, ca
 - Power the system with a battery pack (6x AA or Li-ion).
 - To easily view look at the schematic image.
 
+
+## License
+This project is licensed under the MIT License – feel free to use and modify it.
+
+
+
